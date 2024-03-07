@@ -1,0 +1,16 @@
+footer {
+  background: #2c70ff;
+  display: flex;
+  height: 200px;
+  align-items: center;
+}
+
+footer h1 {
+  flex: 1 1 0%;
+  text-align: center;
+  font-family: "nunito";
+  font-size: 2.25rem;
+  color: #122ab2;
+  font-weight: 500;
+  padding: 0px;
+}

@@ -1,0 +1,11 @@
+.introducao {
+  margin: 0 auto;
+  max-width: 940px;
+  font-family: "nunito";
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: bold;
+  padding: 60px 0px;
+  border-bottom: 2px solid #2c70ff;
+  color: #222222;
+}

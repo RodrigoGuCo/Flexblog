@@ -1,0 +1,45 @@
+.produtos-bg {
+  margin: 60px auto;
+  max-width: 960px;
+  font-family: "nunito";
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #222222;
+  padding: 0px 10px 60px;
+}
+
+.produtos-conteudo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.produtos-conteudo h2 {
+  font-size: 3rem;
+  color: #a4a4a4;
+  font-weight: bold;
+  padding: 60px 20px;
+  background: #F7F7F7;
+}
+
+.produtos-purple,
+.produtos-pink,
+.produtos-blue {
+  margin: 10px;
+  flex: 1 1 175px;
+}
+
+.produtos-purple {
+  border-top: 8px solid #ae81ff;
+}
+
+.produtos-pink {
+  border-top: 8px solid #f9265e;
+}
+
+.produtos-blue {
+  border-top: 8px solid #66d9eb;
+}
